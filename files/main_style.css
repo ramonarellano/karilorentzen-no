@@ -25,9 +25,9 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  body.full-width-off #footer { background: #ffffff; border-top: 1px solid rgba(99,99,99,0.1); }
  #footer-content { width: 960px; margin: auto; }
  #footer h2 { font-family: 'Raleway', sans-serif; font-size: 18px; text-transform: uppercase; }
- #navigation { padding-bottom: 40px; width: 960px; margin: auto; text-align: center; text-transform: uppercase; font-family: 'Raleway', sans-serif; font-size: 13px; overflow: hidden; white-space: nowrap; }
+ #navigation { padding-bottom: 40px; width: 100%; max-width: 1200px; margin: auto; text-align: center; text-transform: uppercase; font-family: 'Raleway', sans-serif; font-size: 13px; overflow: hidden; white-space: nowrap; }
  #navigation ul { display: inline-block; white-space: normal; }
- #navigation a { display: inline-block; padding: 10px 14px; }
+ #navigation a { display: inline-block; padding: 10px 12px; }
  #navigation:before, #navigation:after { background-color: #d0d0d0; content: ""; display: inline-block; height: 1px; bottom: .1em; position: relative; vertical-align: middle; width: 50%; }
  body.full-width-off #navigation:before, body.full-width-off #navigation:after { display: none; }
  #navigation:before { right: 29px; margin-left: -50%; }
