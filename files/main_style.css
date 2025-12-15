@@ -127,7 +127,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .navmobile-wrapper .nav-trigger { padding: 0; }
  .navmobile-wrapper label { padding: 10px; }
  @media (max-width: 1024px) {
- #navigation, #banner, .container, #footer-content { width: auto; min-width: 100%; }
+ #banner, .container, #footer-content { width: auto; min-width: 100%; }
  #wrapper { box-sizing: border-box; }
  #wrapper { position: relative; left: 0%; -webkit-transition: left 0.3s ease-in-out !important; -moz-transition: left 0.3s ease-in-out !important; -o-transition: left 0.3s ease-in-out !important; -ms-transition: left 0.3s ease-in-out !important; transition: left 0.3s ease-in-out !important; }
  #wsite-com-product-images a div { padding-right: 10px; }
